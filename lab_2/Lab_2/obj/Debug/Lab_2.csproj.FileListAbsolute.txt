@@ -1,0 +1,6 @@
+c:\users\kalin\documents\visual studio 2015\Projects\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+c:\users\kalin\documents\visual studio 2015\Projects\Lab_2\Lab_2\obj\Debug\Lab_2.csprojResolveAssemblyReference.cache
+c:\users\kalin\documents\visual studio 2015\Projects\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+c:\users\kalin\documents\visual studio 2015\Projects\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+c:\users\kalin\documents\visual studio 2015\Projects\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+c:\users\kalin\documents\visual studio 2015\Projects\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
