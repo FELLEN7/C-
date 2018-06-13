@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab_2
 {
-    class SeriesException
+    class MyException
     {
         public class MyExceptions : Exception
         {
